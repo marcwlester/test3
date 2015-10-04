@@ -1,6 +1,14 @@
+var game = null;
 Meteor.startup(function () {
   // code to run on server at startup
-  return Players.find();
+  //return Players.find();
+  game = new Game();
+  //Game.init();
+  //game = new Game();
+  game.init();
+  Meteor.setInterval(function() {
+    game.getWorld().update(1/60);
+  }, 1/60);
 });
 
 Meteor.users.find({ "status.online": true }).observe({
