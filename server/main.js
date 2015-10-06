@@ -7,8 +7,8 @@ Meteor.startup(function () {
   //game = new Game();
   game.init();
   Meteor.setInterval(function() {
-    game.getWorld().update(1/60);
-  }, 1/60);
+    game.tick();
+  }, game.step);
 });
 
 Meteor.users.find({ "status.online": true }).observe({
