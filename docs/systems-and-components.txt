@@ -1,0 +1,95 @@
+Move
+Attack
+Health
+Magic
+  - sold by sorceres and healers
+  - usable by anyone
+Weapons
+  - swords
+  - daggers
+  - staves
+  - bows
+Armor
+  - leather armor
+  - metal armor
+  - wooden shields
+  - metal shields
+Walls
+ - protection for towns
+Buildings
+  Inn
+    - Assasin (skill)
+    - Explorer (skill)
+    - Merchant (skill)
+  Magic School
+    - Sorcerer (craft)
+    - Healer (craft)
+    - Alchemist (craft)
+  Workshop
+    - Blacksmith (craft)
+    - Mechanic (craft)
+    - Miner (gather)
+  Lumber Yard
+    - Fletcher (craft)
+    - Forester (gather)
+    - Builder (craft)
+  Farm
+    - Farmer (gather)
+    - Hunter (gather)
+    - Taner (craft)
+  Barracks
+    - Archer (skill)
+    - Guard (skill)
+    - Soldier (skill)
+Jobs
+  Blacksmith (craft)
+    - crafts metal weapons and armor
+  Fletcher (craft)
+    - crafts wooden weapons and armor
+  Alchemist (craft)
+    - crafts potions, chemicals, bombs
+  Healer (craft)
+    - heals, cures and resurections
+  Sorcerer (craft)
+    - damage spells, curses
+  Hunter (gather)
+    - tames animals and monsters, fishing
+  Taner (craft)
+    - crafts leather armor
+  Assassin (skill)
+    - espionage, thieving
+  Explorer (skill)
+    - exploring, founding
+  Merchant (skill)
+    - trade goods, commerce
+  Mechanic (craft)
+    - siege, vehicles
+  Builder (craft)
+    - buildings, walls, roads, bridges
+  Miner (gather)
+    - extracting and smelting ores
+  Forester (gather)
+    - harvests lumber
+  Farmer (gather)
+    - grows food, herbs
+  Archer (skill)
+    - ranged weapons
+  Guard (skill)
+    - shields and defensive
+  Soldier (skill)
+    - melee and offensive
+Towers
+  - farther sight, father ranged attacks
+Target
+Time
+  - day and night cycle
+Towns
+  - contain buildings
+
+
+--\
+   \  o      zH
+    \ o      zH
+     \        z
+     |
+     |
