@@ -1,3 +1,5 @@
+Character
+  - chooses 1 from each combat, skill, craft, gather
 Move
 Attack
 Health
@@ -38,10 +40,13 @@ Buildings
     - Hunter (gather)
     - Taner (craft)
   Barracks
-    - Archer (skill)
-    - Guard (skill)
-    - Soldier (skill)
+    - Archer (combat)
+    - Guard (combat)
+    - Soldier (combat)
 Jobs
+  - jobs have 4 categories combat, skill, craft, gather
+  - players can choose 1 of each.
+  - jobs have tiers
   Blacksmith (craft)
     - crafts metal weapons and armor
   Fletcher (craft)
@@ -53,7 +58,7 @@ Jobs
   Sorcerer (craft)
     - damage spells, curses
   Hunter (gather)
-    - tames animals and monsters, fishing
+    - tames animals, fish
   Taner (craft)
     - crafts leather armor
   Assassin (skill)
@@ -72,11 +77,11 @@ Jobs
     - harvests lumber
   Farmer (gather)
     - grows food, herbs
-  Archer (skill)
+  Archer (combat)
     - ranged weapons
-  Guard (skill)
+  Guard (combat)
     - shields and defensive
-  Soldier (skill)
+  Soldier (combat)
     - melee and offensive
 Towers
   - farther sight, father ranged attacks
@@ -85,6 +90,89 @@ Time
   - day and night cycle
 Towns
   - contain buildings
+Items
+  Ores
+    Stone
+      - Miner gathers lv 1
+      - Blacksmith uses lv 1 (stone sword, stone dagger)
+    Copper
+      - Miner gathers lv 2
+    Iron
+      - Miner gathers lv 3
+    Silver
+      - Miner gathers lv 4
+    Gold
+      - Miner gathers lv 5
+    Obsidian
+      - Miner gathers lv 6
+  Woods
+    Beach Wood
+      - Forester gathers lv 1
+    Pine Wood
+      - Forester gathers lv 2
+    Birch Wood
+      - Forester gathers lv 3
+    Maple Wood
+      - Forester gathers lv 4
+    Oak Wood
+      - Forester gathers lv 5
+    Iron Wood
+      - Forester gathers lv 6
+  Foods
+    Tier 1
+    Tier 2
+    Tier 3
+    Tier 4
+    Tier 5
+    Tier 6
+  Herbs
+    Tier 1
+    Tier 2
+    Tier 3
+    Tier 4
+    Tier 5
+    Tier 6
+  Animals
+    Tier 1
+    Tier 2
+    Tier 3
+    Tier 4
+    Tier 5
+    Tier 6
+  Fish
+    Tier 1
+    Tier 2
+    Tier 3
+    Tier 4
+    Tier 5
+    Tier 6
+  Ore Swords
+  Ore Daggers
+  Wood Staves
+  Wood Bows
+  Ore Helms
+  Ore Chest
+  Ore Arms
+  Ore Legs
+  Ore Feet
+  Leather Helms
+  Leather Chest
+  Leather Arms
+  Leather Legs
+  Leather Feet
+  Wood Shields
+  Ore Shields
+  Potions
+  Bombs
+  Healing Scrolls
+  Sorcery Scrolls
+  Building Writs
+  Wall Writs
+  Siege Writs
+  Vehicle Writs
+
+
+
 
 
 --\
