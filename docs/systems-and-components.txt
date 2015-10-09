@@ -67,6 +67,7 @@ Jobs
     - exploring, founding
   Merchant (skill)
     - trade goods, commerce
+    - allows creating trade routes between towns
   Mechanic (craft)
     - siege, vehicles
   Builder (craft)
@@ -170,6 +171,8 @@ Items
   Wall Writs
   Siege Writs
   Vehicle Writs
+Trade Route
+  - 2 towns can setup a trade route.
 
 
 
